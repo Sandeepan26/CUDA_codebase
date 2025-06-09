@@ -7,7 +7,7 @@ This repository contains codes in separate directories. This codebase includes c
 
 *GPU: NVIDIA GeForce RTX 4060* <br/>
 
-*Note: Each directory has a separate README file to help go through the file structure. The author has trie to make the code well-commented for better readability*
+*Note: Each directory has a separate README file to help go through the file structure. The author has tried to make the code well-commented for better readability*
 
 
 
