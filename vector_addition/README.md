@@ -2,7 +2,7 @@
 *Summary: This code performs a basic operation of vector addition on number of threads in a block* <br/>
 
 *To run code, source makefile* <br/>
-*compile*
+- *compile*
     - `make compile`
-*execute*
+- *execute*
     * `make run`    
